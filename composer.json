@@ -1,0 +1,14 @@
+{
+    "name": "luanhimmlisch/scammer-bomb",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luan Himmlisch",
+            "email": "luan@himmlisch.com.mx"
+        }
+    ],
+    "require": {
+        "amphp/amp": "^2.6",
+        "amphp/http-client": "^4.6"
+    }
+}
